@@ -66,7 +66,7 @@ conn.close()
 ### 2. [Provider YTD Metrics Dashboard (Tableau)](link to Tableau dashboard or project folder)
 - **Description:** Interactive Tableau dashboard for tracking YTD metrics for healthcare providers.
 - **Skills:** Tableau, SQL queries calculations
-https://10ay.online.tableau.com/t/ruckerspark-3023265e6e/authoring/heatmap/Dashboard1#1
+https://10ay.online.tableau.com/t/ruckerspark-3023265e6e/views/heatmap/HealthsystemDashboard
 
 ### 3. [SQL-Based Patient Outcomes Analysis]
 - **Description:** SQL queries to extract patient outcomes and calculate key metrics.

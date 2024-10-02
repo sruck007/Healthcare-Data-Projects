@@ -104,3 +104,8 @@ ORDER BY Readmission_Rate DESC;
 - **Description:** Interactive Tableau dashboard for tracking YTD metrics for healthcare providers.
 - **Skills:** Tableau, SQL queries calculations
 https://10ay.online.tableau.com/t/ruckerspark-3023265e6e/views/heatmap/HealthsystemDashboard
+
+Dashboard Tableau preview
+![image](https://github.com/user-attachments/assets/2570187d-6f69-4728-a09d-f8bc40d71604)
+
+

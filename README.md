@@ -1,4 +1,4 @@
-# Healthcare Readmittance Anlyysis (Portfolio Project)
+# Healthcare Readmittance Analysis (Portfolio Project)
 
 Welcome to my data portfolio! This repository showcases my projects in healthcare informatics, business intelligence, and revenue cycle management (RCM).
 
@@ -47,9 +47,6 @@ conn = pyodbc.connect('DRIVER={SQL Server};'
                       'SERVER=DESKTOP-4LBGUE0\\SQLEXPRESS02;'
                       'DATABASE=master;'
                       'Trusted_Connection=yes;')
-
-# Insert cleaned data into the dbo.claims table
-cursor = conn.cursor()
 
 # Insert the records into dbo.claims table
 for index, row in df.iterrows():

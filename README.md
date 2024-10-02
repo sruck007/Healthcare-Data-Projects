@@ -3,7 +3,7 @@
 Welcome to my data portfolio! This repository showcases my projects in healthcare informatics, business intelligence, and revenue cycle management (RCM).
 
 ## Projects
-### 1. [Healthcare Billing Automation with Python](link to project folder)
+### 1. [Healthcare Billing Automation with Python]
 - **Description:** Automated AR data extraction, transformation, and reporting using Python.
 - **Skills:** Python (Pandas, NumPy), Excel, Google Sheets API
 - import pandas as pd
@@ -11,6 +11,7 @@ import pyodbc
 
 # Load the CSV file (update the file path as necessary)
 df = pd.read_csv(r'C:\Users\SamRucker\Downloads\claim_data.csv')
+"C:\Users\SamRucker\Downloads\hospital_readmission.csv"
 
 # Print the actual column names in the CSV to debug (you can remove this after debugging)
 print(df.columns)

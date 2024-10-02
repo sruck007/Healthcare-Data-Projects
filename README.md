@@ -1,4 +1,4 @@
-# Healthcare Data Projects Portfolio
+# Healthcare Readmimance Anlyysis (Portfolio Project)
 
 Welcome to my data portfolio! This repository showcases my projects in healthcare informatics, business intelligence, and revenue cycle management (RCM).
 

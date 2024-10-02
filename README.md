@@ -60,15 +60,8 @@ for index, row in df.iterrows():
 # Commit the transaction to SQL Server
 conn.commit()
 
-# Close the connection
-conn.close()
 
-### 2. [Provider YTD Metrics Dashboard (Tableau)](link to Tableau dashboard or project folder)
-- **Description:** Interactive Tableau dashboard for tracking YTD metrics for healthcare providers.
-- **Skills:** Tableau, SQL queries calculations
-https://10ay.online.tableau.com/t/ruckerspark-3023265e6e/views/heatmap/HealthsystemDashboard
-
-### 3. [SQL-Based Patient Outcomes Analysis]
+### 2. [SQL-Based Patient Outcomes Analysis]
 - **Description:** SQL queries to extract patient outcomes and calculate key metrics.
 - **Skills:** SQL (PostgreSQL/MySQL), Data Analysis
 SELECT 
@@ -105,3 +98,8 @@ SELECT
     RANK() OVER (ORDER BY Readmission_Rate DESC) AS Rank_By_Readmission
 FROM ReadmissionByDiag
 ORDER BY Readmission_Rate DESC;
+
+### 3. [Provider YTD Metrics Dashboard (Tableau)](link to Tableau dashboard or project folder)
+- **Description:** Interactive Tableau dashboard for tracking YTD metrics for healthcare providers.
+- **Skills:** Tableau, SQL queries calculations
+https://10ay.online.tableau.com/t/ruckerspark-3023265e6e/views/heatmap/HealthsystemDashboard

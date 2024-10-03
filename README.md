@@ -58,10 +58,10 @@ for index, row in df.iterrows():
 ### 2. [SQL-Based Patient Outcomes Analysis]
 - **Description:** SQL queries to extract patient outcomes and calculate key metrics.
 - **Skills:** SQL (PostgreSQL/MySQL), Data Analysis
-Link to SQL Queries feeding dashboard
+Link to queries feeding dashboard in dashboard_queries.sql file
 
 
-### 3. [Provider YTD Metrics Dashboard (Tableau)](link to Tableau dashboard or project folder)
+### 3. [YTD Healthcare Metrics Dashboard (Tableau)](link to Tableau dashboard or project folder)
 - **Description:** Interactive Tableau dashboard for tracking YTD metrics for healthcare providers.
 - **Skills:** Tableau, SQL queries calculations
 https://10ay.online.tableau.com/t/ruckerspark-3023265e6e/views/heatmap/HealthsystemDashboard

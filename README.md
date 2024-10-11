@@ -1,6 +1,6 @@
 # Healthcare Readmittance Analysis (Portfolio Project)
 
-Welcome to my data portfolio! This repository showcases my projects in healthcare informatics, business intelligence, and revenue cycle management (RCM).
+Welcome to my data portfolio! This repository showcases my projects in healthcare informatics, business intelligence, and revenue cycle management (RCM). In this project, a dashboard will be populated from a csv file contaning various categories of performance and health, which will be cleaned then extracted and loaded to SQL before finally available to be vizualized in Tableau for data reporting. 
 
 ## Projects
 ### 1. [Healthcare Billing Automation with Python]
